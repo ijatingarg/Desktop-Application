@@ -19,12 +19,15 @@
 
 #### 1. For Login.java
 
-  The Database name will be data with two columns username and password.
+  The Database table name will be **data** with two columns **username** and **password**.
   
 #### 2. Registrationform.java
 
-  The Database name will be details with columns Member_Name,Member_Number,Gender,Email,Country,City,Street,Pincode,Date,Month,Year.
+  The Database table name will be **details** with columns **Member_Name,Member_Number,Gender,Email,Country,City,Street,Pincode,Date,Month,Year**.
 
 
 
-## Note :You can create your own database with any name you want, but on doing this you have to make the changes into the code too (like changing the name of database table as per yours).
+
+
+
+## > Note :You can create your own database with any name you want, but on doing this you have to make the changes into the code too (like changing the name of database table as per yours).
