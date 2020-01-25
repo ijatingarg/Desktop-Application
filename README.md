@@ -30,4 +30,4 @@
 
 
 
-## > Note :You can create your own database with any name you want, but on doing this you have to make the changes into the code too (like changing the name of database table as per yours).
+> Note :You can create your own database with any name you want, but on doing this you have to make the changes into the code too (like changing the name of database table as per yours).
